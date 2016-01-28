@@ -4,7 +4,7 @@
       "name": "Glass",
       "id": "glass",
       "unicode": "f000",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "martini",
         "drink",
@@ -20,7 +20,7 @@
       "name": "Music",
       "id": "music",
       "unicode": "f001",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "note",
         "sound"
@@ -33,7 +33,7 @@
       "name": "Search",
       "id": "search",
       "unicode": "f002",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "magnify",
         "zoom",
@@ -48,7 +48,7 @@
       "name": "Envelope Outlined",
       "id": "envelope-o",
       "unicode": "f003",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "email",
         "support",
@@ -65,7 +65,7 @@
       "name": "Heart",
       "id": "heart",
       "unicode": "f004",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "love",
         "like",
@@ -80,7 +80,7 @@
       "name": "Star",
       "id": "star",
       "unicode": "f005",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "award",
         "achievement",
@@ -96,7 +96,7 @@
       "name": "Star Outlined",
       "id": "star-o",
       "unicode": "f006",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "award",
         "achievement",
@@ -112,7 +112,7 @@
       "name": "User",
       "id": "user",
       "unicode": "f007",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "person",
         "man",
@@ -127,7 +127,7 @@
       "name": "Film",
       "id": "film",
       "unicode": "f008",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "movie"
       ],
@@ -139,11 +139,12 @@
       "name": "th-large",
       "id": "th-large",
       "unicode": "f009",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "blocks",
         "squares",
-        "boxes"
+        "boxes",
+        "grid"
       ],
       "categories": [
         "Text Editor Icons"
@@ -153,11 +154,12 @@
       "name": "th",
       "id": "th",
       "unicode": "f00a",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "blocks",
         "squares",
-        "boxes"
+        "boxes",
+        "grid"
       ],
       "categories": [
         "Text Editor Icons"
@@ -167,7 +169,7 @@
       "name": "th-list",
       "id": "th-list",
       "unicode": "f00b",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "ul",
         "ol",
@@ -185,14 +187,15 @@
       "name": "Check",
       "id": "check",
       "unicode": "f00c",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "checkmark",
         "done",
         "todo",
         "agree",
         "accept",
-        "confirm"
+        "confirm",
+        "tick"
       ],
       "categories": [
         "Web Application Icons"
@@ -202,7 +205,7 @@
       "name": "Times",
       "id": "times",
       "unicode": "f00d",
-      "created": 1,
+      "created": 1.0,
       "aliases": [
         "remove",
         "close"
@@ -210,7 +213,8 @@
       "filter": [
         "close",
         "exit",
-        "x"
+        "x",
+        "cross"
       ],
       "categories": [
         "Web Application Icons"
@@ -220,7 +224,7 @@
       "name": "Search Plus",
       "id": "search-plus",
       "unicode": "f00e",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "magnify",
         "zoom",
@@ -235,7 +239,7 @@
       "name": "Search Minus",
       "id": "search-minus",
       "unicode": "f010",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "magnify",
         "minify",
@@ -250,7 +254,7 @@
       "name": "Power Off",
       "id": "power-off",
       "unicode": "f011",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "on"
       ],
@@ -262,7 +266,7 @@
       "name": "signal",
       "id": "signal",
       "unicode": "f012",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -271,7 +275,7 @@
       "name": "cog",
       "id": "cog",
       "unicode": "f013",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "settings"
       ],
@@ -287,7 +291,7 @@
       "name": "Trash Outlined",
       "id": "trash-o",
       "unicode": "f014",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "garbage",
         "delete",
@@ -303,7 +307,7 @@
       "name": "home",
       "id": "home",
       "unicode": "f015",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "main",
         "house"
@@ -316,7 +320,7 @@
       "name": "File Outlined",
       "id": "file-o",
       "unicode": "f016",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "new",
         "page",
@@ -332,7 +336,7 @@
       "name": "Clock Outlined",
       "id": "clock-o",
       "unicode": "f017",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "watch",
         "timer",
@@ -347,7 +351,7 @@
       "name": "road",
       "id": "road",
       "unicode": "f018",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "street"
       ],
@@ -359,7 +363,7 @@
       "name": "Download",
       "id": "download",
       "unicode": "f019",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "import"
       ],
@@ -371,7 +375,7 @@
       "name": "Arrow Circle Outlined Down",
       "id": "arrow-circle-o-down",
       "unicode": "f01a",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "download"
       ],
@@ -383,7 +387,7 @@
       "name": "Arrow Circle Outlined Up",
       "id": "arrow-circle-o-up",
       "unicode": "f01b",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Directional Icons"
       ]
@@ -392,7 +396,7 @@
       "name": "inbox",
       "id": "inbox",
       "unicode": "f01c",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -401,7 +405,7 @@
       "name": "Play Circle Outlined",
       "id": "play-circle-o",
       "unicode": "f01d",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Video Player Icons"
       ]
@@ -410,7 +414,7 @@
       "name": "Repeat",
       "id": "repeat",
       "unicode": "f01e",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "redo",
         "forward"
@@ -426,9 +430,10 @@
       "name": "refresh",
       "id": "refresh",
       "unicode": "f021",
-      "created": 1,
+      "created": 1.0,
       "filter": [
-        "reload"
+        "reload",
+        "sync"
       ],
       "categories": [
         "Web Application Icons",
@@ -439,7 +444,7 @@
       "name": "list-alt",
       "id": "list-alt",
       "unicode": "f022",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "ul",
         "ol",
@@ -457,7 +462,7 @@
       "name": "lock",
       "id": "lock",
       "unicode": "f023",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "protect",
         "admin"
@@ -470,7 +475,7 @@
       "name": "flag",
       "id": "flag",
       "unicode": "f024",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "report",
         "notification",
@@ -484,7 +489,7 @@
       "name": "headphones",
       "id": "headphones",
       "unicode": "f025",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "sound",
         "listen",
@@ -498,7 +503,7 @@
       "name": "volume-off",
       "id": "volume-off",
       "unicode": "f026",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "mute",
         "sound",
@@ -512,7 +517,7 @@
       "name": "volume-down",
       "id": "volume-down",
       "unicode": "f027",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "lower",
         "quieter",
@@ -527,7 +532,7 @@
       "name": "volume-up",
       "id": "volume-up",
       "unicode": "f028",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "higher",
         "louder",
@@ -542,7 +547,7 @@
       "name": "qrcode",
       "id": "qrcode",
       "unicode": "f029",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "scan"
       ],
@@ -554,7 +559,7 @@
       "name": "barcode",
       "id": "barcode",
       "unicode": "f02a",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "scan"
       ],
@@ -566,7 +571,7 @@
       "name": "tag",
       "id": "tag",
       "unicode": "f02b",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "label"
       ],
@@ -578,7 +583,7 @@
       "name": "tags",
       "id": "tags",
       "unicode": "f02c",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "labels"
       ],
@@ -590,7 +595,7 @@
       "name": "book",
       "id": "book",
       "unicode": "f02d",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "read",
         "documentation"
@@ -603,7 +608,7 @@
       "name": "bookmark",
       "id": "bookmark",
       "unicode": "f02e",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "save"
       ],
@@ -615,7 +620,7 @@
       "name": "print",
       "id": "print",
       "unicode": "f02f",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -624,7 +629,7 @@
       "name": "camera",
       "id": "camera",
       "unicode": "f030",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "photo",
         "picture",
@@ -638,7 +643,7 @@
       "name": "font",
       "id": "font",
       "unicode": "f031",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "text"
       ],
@@ -650,7 +655,7 @@
       "name": "bold",
       "id": "bold",
       "unicode": "f032",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Text Editor Icons"
       ]
@@ -659,7 +664,7 @@
       "name": "italic",
       "id": "italic",
       "unicode": "f033",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "italics"
       ],
@@ -671,7 +676,7 @@
       "name": "text-height",
       "id": "text-height",
       "unicode": "f034",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Text Editor Icons"
       ]
@@ -680,7 +685,7 @@
       "name": "text-width",
       "id": "text-width",
       "unicode": "f035",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Text Editor Icons"
       ]
@@ -689,7 +694,7 @@
       "name": "align-left",
       "id": "align-left",
       "unicode": "f036",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "text"
       ],
@@ -701,7 +706,7 @@
       "name": "align-center",
       "id": "align-center",
       "unicode": "f037",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "middle",
         "text"
@@ -714,7 +719,7 @@
       "name": "align-right",
       "id": "align-right",
       "unicode": "f038",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "text"
       ],
@@ -726,7 +731,7 @@
       "name": "align-justify",
       "id": "align-justify",
       "unicode": "f039",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "text"
       ],
@@ -738,7 +743,7 @@
       "name": "list",
       "id": "list",
       "unicode": "f03a",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "ul",
         "ol",
@@ -756,7 +761,7 @@
       "name": "Outdent",
       "id": "outdent",
       "unicode": "f03b",
-      "created": 1,
+      "created": 1.0,
       "aliases": [
         "dedent"
       ],
@@ -768,7 +773,7 @@
       "name": "Indent",
       "id": "indent",
       "unicode": "f03c",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Text Editor Icons"
       ]
@@ -777,7 +782,7 @@
       "name": "Video Camera",
       "id": "video-camera",
       "unicode": "f03d",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "film",
         "movie",
@@ -791,7 +796,7 @@
       "name": "Picture Outlined",
       "id": "picture-o",
       "unicode": "f03e",
-      "created": 1,
+      "created": 1.0,
       "aliases": [
         "photo",
         "image"
@@ -804,7 +809,7 @@
       "name": "pencil",
       "id": "pencil",
       "unicode": "f040",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "write",
         "edit",
@@ -818,7 +823,7 @@
       "name": "map-marker",
       "id": "map-marker",
       "unicode": "f041",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "map",
         "pin",
@@ -838,7 +843,7 @@
       "name": "adjust",
       "id": "adjust",
       "unicode": "f042",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "contrast"
       ],
@@ -850,9 +855,12 @@
       "name": "tint",
       "id": "tint",
       "unicode": "f043",
-      "created": 1,
+      "created": 1.0,
       "filter": [
-        "raindrop"
+        "raindrop",
+        "waterdrop",
+        "drop",
+        "droplet"
       ],
       "categories": [
         "Web Application Icons"
@@ -862,7 +870,7 @@
       "name": "Pencil Square Outlined",
       "id": "pencil-square-o",
       "unicode": "f044",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "write",
         "edit",
@@ -879,7 +887,7 @@
       "name": "Share Square Outlined",
       "id": "share-square-o",
       "unicode": "f045",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "social",
         "send"
@@ -892,7 +900,7 @@
       "name": "Check Square Outlined",
       "id": "check-square-o",
       "unicode": "f046",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "todo",
         "done",
@@ -909,7 +917,7 @@
       "name": "Arrows",
       "id": "arrows",
       "unicode": "f047",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "move",
         "reorder",
@@ -924,7 +932,7 @@
       "name": "step-backward",
       "id": "step-backward",
       "unicode": "f048",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "rewind",
         "previous",
@@ -940,7 +948,7 @@
       "name": "fast-backward",
       "id": "fast-backward",
       "unicode": "f049",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "rewind",
         "previous",
@@ -956,7 +964,7 @@
       "name": "backward",
       "id": "backward",
       "unicode": "f04a",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "rewind",
         "previous"
@@ -969,7 +977,7 @@
       "name": "play",
       "id": "play",
       "unicode": "f04b",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "start",
         "playing",
@@ -984,7 +992,7 @@
       "name": "pause",
       "id": "pause",
       "unicode": "f04c",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "wait"
       ],
@@ -996,7 +1004,7 @@
       "name": "stop",
       "id": "stop",
       "unicode": "f04d",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "block",
         "box",
@@ -1010,7 +1018,7 @@
       "name": "forward",
       "id": "forward",
       "unicode": "f04e",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "forward",
         "next"
@@ -1023,7 +1031,7 @@
       "name": "fast-forward",
       "id": "fast-forward",
       "unicode": "f050",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "next",
         "end",
@@ -1037,7 +1045,7 @@
       "name": "step-forward",
       "id": "step-forward",
       "unicode": "f051",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "next",
         "end",
@@ -1051,7 +1059,7 @@
       "name": "eject",
       "id": "eject",
       "unicode": "f052",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Video Player Icons"
       ]
@@ -1060,7 +1068,7 @@
       "name": "chevron-left",
       "id": "chevron-left",
       "unicode": "f053",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "bracket",
         "previous",
@@ -1074,7 +1082,7 @@
       "name": "chevron-right",
       "id": "chevron-right",
       "unicode": "f054",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "bracket",
         "next",
@@ -1088,7 +1096,7 @@
       "name": "Plus Circle",
       "id": "plus-circle",
       "unicode": "f055",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "add",
         "new",
@@ -1103,7 +1111,7 @@
       "name": "Minus Circle",
       "id": "minus-circle",
       "unicode": "f056",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "delete",
         "remove",
@@ -1118,7 +1126,7 @@
       "name": "Times Circle",
       "id": "times-circle",
       "unicode": "f057",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "close",
         "exit",
@@ -1132,7 +1140,7 @@
       "name": "Check Circle",
       "id": "check-circle",
       "unicode": "f058",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "todo",
         "done",
@@ -1154,7 +1162,7 @@
         "unknown",
         "support"
       ],
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -1163,7 +1171,7 @@
       "name": "Info Circle",
       "id": "info-circle",
       "unicode": "f05a",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "help",
         "information",
@@ -1178,7 +1186,7 @@
       "name": "Crosshairs",
       "id": "crosshairs",
       "unicode": "f05b",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "picker"
       ],
@@ -1190,7 +1198,7 @@
       "name": "Times Circle Outlined",
       "id": "times-circle-o",
       "unicode": "f05c",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "close",
         "exit",
@@ -1204,7 +1212,7 @@
       "name": "Check Circle Outlined",
       "id": "check-circle-o",
       "unicode": "f05d",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "todo",
         "done",
@@ -1220,7 +1228,7 @@
       "name": "ban",
       "id": "ban",
       "unicode": "f05e",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "delete",
         "remove",
@@ -1239,7 +1247,7 @@
       "name": "arrow-left",
       "id": "arrow-left",
       "unicode": "f060",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "previous",
         "back"
@@ -1252,7 +1260,7 @@
       "name": "arrow-right",
       "id": "arrow-right",
       "unicode": "f061",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "next",
         "forward"
@@ -1265,7 +1273,7 @@
       "name": "arrow-up",
       "id": "arrow-up",
       "unicode": "f062",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Directional Icons"
       ]
@@ -1274,7 +1282,7 @@
       "name": "arrow-down",
       "id": "arrow-down",
       "unicode": "f063",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "download"
       ],
@@ -1286,7 +1294,7 @@
       "name": "Share",
       "id": "share",
       "unicode": "f064",
-      "created": 1,
+      "created": 1.0,
       "aliases": [
         "mail-forward"
       ],
@@ -1298,7 +1306,7 @@
       "name": "Expand",
       "id": "expand",
       "unicode": "f065",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "enlarge",
         "bigger",
@@ -1312,7 +1320,7 @@
       "name": "Compress",
       "id": "compress",
       "unicode": "f066",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "collapse",
         "combine",
@@ -1328,7 +1336,7 @@
       "name": "plus",
       "id": "plus",
       "unicode": "f067",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "add",
         "new",
@@ -1343,7 +1351,7 @@
       "name": "minus",
       "id": "minus",
       "unicode": "f068",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "hide",
         "minify",
@@ -1361,7 +1369,7 @@
       "name": "asterisk",
       "id": "asterisk",
       "unicode": "f069",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "details"
       ],
@@ -1373,7 +1381,7 @@
       "name": "Exclamation Circle",
       "id": "exclamation-circle",
       "unicode": "f06a",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "warning",
         "error",
@@ -1389,7 +1397,7 @@
       "name": "gift",
       "id": "gift",
       "unicode": "f06b",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "present"
       ],
@@ -1401,7 +1409,7 @@
       "name": "leaf",
       "id": "leaf",
       "unicode": "f06c",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "eco",
         "nature"
@@ -1414,7 +1422,7 @@
       "name": "fire",
       "id": "fire",
       "unicode": "f06d",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "flame",
         "hot",
@@ -1428,7 +1436,7 @@
       "name": "Eye",
       "id": "eye",
       "unicode": "f06e",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "show",
         "visible",
@@ -1442,7 +1450,7 @@
       "name": "Eye Slash",
       "id": "eye-slash",
       "unicode": "f070",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "toggle",
         "show",
@@ -1459,7 +1467,7 @@
       "name": "Exclamation Triangle",
       "id": "exclamation-triangle",
       "unicode": "f071",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "warning",
         "error",
@@ -1478,7 +1486,7 @@
       "name": "plane",
       "id": "plane",
       "unicode": "f072",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "travel",
         "trip",
@@ -1497,7 +1505,7 @@
       "name": "calendar",
       "id": "calendar",
       "unicode": "f073",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "date",
         "time",
@@ -1511,7 +1519,7 @@
       "name": "random",
       "id": "random",
       "unicode": "f074",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "sort",
         "shuffle"
@@ -1525,7 +1533,7 @@
       "name": "comment",
       "id": "comment",
       "unicode": "f075",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "speech",
         "notification",
@@ -1542,7 +1550,7 @@
       "name": "magnet",
       "id": "magnet",
       "unicode": "f076",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -1551,7 +1559,7 @@
       "name": "chevron-up",
       "id": "chevron-up",
       "unicode": "f077",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Directional Icons"
       ]
@@ -1560,7 +1568,7 @@
       "name": "chevron-down",
       "id": "chevron-down",
       "unicode": "f078",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Directional Icons"
       ]
@@ -1569,7 +1577,7 @@
       "name": "retweet",
       "id": "retweet",
       "unicode": "f079",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "refresh",
         "reload",
@@ -1583,7 +1591,7 @@
       "name": "shopping-cart",
       "id": "shopping-cart",
       "unicode": "f07a",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "checkout",
         "buy",
@@ -1598,7 +1606,7 @@
       "name": "Folder",
       "id": "folder",
       "unicode": "f07b",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -1607,7 +1615,7 @@
       "name": "Folder Open",
       "id": "folder-open",
       "unicode": "f07c",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -1616,7 +1624,7 @@
       "name": "Arrows Vertical",
       "id": "arrows-v",
       "unicode": "f07d",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "resize"
       ],
@@ -1629,7 +1637,7 @@
       "name": "Arrows Horizontal",
       "id": "arrows-h",
       "unicode": "f07e",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "resize"
       ],
@@ -1642,7 +1650,7 @@
       "name": "Bar Chart",
       "id": "bar-chart",
       "unicode": "f080",
-      "created": 1,
+      "created": 1.0,
       "aliases": [
         "bar-chart-o"
       ],
@@ -1659,7 +1667,7 @@
       "name": "Twitter Square",
       "id": "twitter-square",
       "unicode": "f081",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "tweet",
         "social network"
@@ -1672,7 +1680,7 @@
       "name": "Facebook Square",
       "id": "facebook-square",
       "unicode": "f082",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "social network"
       ],
@@ -1684,7 +1692,7 @@
       "name": "camera-retro",
       "id": "camera-retro",
       "unicode": "f083",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "photo",
         "picture",
@@ -1698,7 +1706,7 @@
       "name": "key",
       "id": "key",
       "unicode": "f084",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "unlock",
         "password"
@@ -1711,7 +1719,7 @@
       "name": "cogs",
       "id": "cogs",
       "unicode": "f085",
-      "created": 1,
+      "created": 1.0,
       "aliases": [
         "gears"
       ],
@@ -1726,7 +1734,7 @@
       "name": "comments",
       "id": "comments",
       "unicode": "f086",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "conversation",
         "notification",
@@ -1740,7 +1748,7 @@
       "name": "Thumbs Up Outlined",
       "id": "thumbs-o-up",
       "unicode": "f087",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "like",
         "approve",
@@ -1757,7 +1765,7 @@
       "name": "Thumbs Down Outlined",
       "id": "thumbs-o-down",
       "unicode": "f088",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "dislike",
         "disapprove",
@@ -1773,7 +1781,7 @@
       "name": "star-half",
       "id": "star-half",
       "unicode": "f089",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "award",
         "achievement",
@@ -1788,7 +1796,7 @@
       "name": "Heart Outlined",
       "id": "heart-o",
       "unicode": "f08a",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "love",
         "like",
@@ -1803,7 +1811,7 @@
       "name": "Sign Out",
       "id": "sign-out",
       "unicode": "f08b",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "log out",
         "logout",
@@ -1819,7 +1827,7 @@
       "name": "LinkedIn Square",
       "id": "linkedin-square",
       "unicode": "f08c",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Brand Icons"
       ]
@@ -1828,7 +1836,7 @@
       "name": "Thumb Tack",
       "id": "thumb-tack",
       "unicode": "f08d",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "marker",
         "pin",
@@ -1843,7 +1851,7 @@
       "name": "External Link",
       "id": "external-link",
       "unicode": "f08e",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "open",
         "new"
@@ -1856,7 +1864,7 @@
       "name": "Sign In",
       "id": "sign-in",
       "unicode": "f090",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "enter",
         "join",
@@ -1876,7 +1884,7 @@
       "name": "trophy",
       "id": "trophy",
       "unicode": "f091",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "award",
         "achievement",
@@ -1891,7 +1899,7 @@
       "name": "GitHub Square",
       "id": "github-square",
       "unicode": "f092",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "octocat"
       ],
@@ -1903,7 +1911,7 @@
       "name": "Upload",
       "id": "upload",
       "unicode": "f093",
-      "created": 1,
+      "created": 1.0,
       "filter": [
         "import"
       ],
@@ -1915,7 +1923,7 @@
       "name": "Lemon Outlined",
       "id": "lemon-o",
       "unicode": "f094",
-      "created": 1,
+      "created": 1.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -1924,7 +1932,7 @@
       "name": "Phone",
       "id": "phone",
       "unicode": "f095",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "call",
         "voice",
@@ -1940,7 +1948,7 @@
       "name": "Square Outlined",
       "id": "square-o",
       "unicode": "f096",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "block",
         "square",
@@ -1955,7 +1963,7 @@
       "name": "Bookmark Outlined",
       "id": "bookmark-o",
       "unicode": "f097",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "save"
       ],
@@ -1967,7 +1975,7 @@
       "name": "Phone Square",
       "id": "phone-square",
       "unicode": "f098",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "call",
         "voice",
@@ -1982,7 +1990,7 @@
       "name": "Twitter",
       "id": "twitter",
       "unicode": "f099",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "tweet",
         "social network"
@@ -1995,7 +2003,7 @@
       "name": "Facebook",
       "id": "facebook",
       "unicode": "f09a",
-      "created": 2,
+      "created": 2.0,
       "aliases": [
         "facebook-f"
       ],
@@ -2010,7 +2018,7 @@
       "name": "GitHub",
       "id": "github",
       "unicode": "f09b",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "octocat"
       ],
@@ -2022,11 +2030,12 @@
       "name": "unlock",
       "id": "unlock",
       "unicode": "f09c",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "protect",
         "admin",
-        "password"
+        "password",
+        "lock"
       ],
       "categories": [
         "Web Application Icons"
@@ -2036,7 +2045,7 @@
       "name": "credit-card",
       "id": "credit-card",
       "unicode": "f09d",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "money",
         "buy",
@@ -2054,7 +2063,7 @@
       "name": "rss",
       "id": "rss",
       "unicode": "f09e",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "blog"
       ],
@@ -2069,7 +2078,7 @@
       "name": "HDD",
       "id": "hdd-o",
       "unicode": "f0a0",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "harddrive",
         "hard drive",
@@ -2084,7 +2093,7 @@
       "name": "bullhorn",
       "id": "bullhorn",
       "unicode": "f0a1",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "announcement",
         "share",
@@ -2099,7 +2108,7 @@
       "name": "bell",
       "id": "bell",
       "unicode": "f0f3",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "alert",
         "reminder",
@@ -2113,7 +2122,7 @@
       "name": "certificate",
       "id": "certificate",
       "unicode": "f0a3",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "badge",
         "star"
@@ -2126,7 +2135,7 @@
       "name": "Hand Outlined Right",
       "id": "hand-o-right",
       "unicode": "f0a4",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "point",
         "right",
@@ -2142,7 +2151,7 @@
       "name": "Hand Outlined Left",
       "id": "hand-o-left",
       "unicode": "f0a5",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "point",
         "left",
@@ -2158,7 +2167,7 @@
       "name": "Hand Outlined Up",
       "id": "hand-o-up",
       "unicode": "f0a6",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "point"
       ],
@@ -2171,7 +2180,7 @@
       "name": "Hand Outlined Down",
       "id": "hand-o-down",
       "unicode": "f0a7",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "point"
       ],
@@ -2184,7 +2193,7 @@
       "name": "Arrow Circle Left",
       "id": "arrow-circle-left",
       "unicode": "f0a8",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "previous",
         "back"
@@ -2197,7 +2206,7 @@
       "name": "Arrow Circle Right",
       "id": "arrow-circle-right",
       "unicode": "f0a9",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "next",
         "forward"
@@ -2210,7 +2219,7 @@
       "name": "Arrow Circle Up",
       "id": "arrow-circle-up",
       "unicode": "f0aa",
-      "created": 2,
+      "created": 2.0,
       "categories": [
         "Directional Icons"
       ]
@@ -2219,7 +2228,7 @@
       "name": "Arrow Circle Down",
       "id": "arrow-circle-down",
       "unicode": "f0ab",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "download"
       ],
@@ -2231,7 +2240,7 @@
       "name": "Globe",
       "id": "globe",
       "unicode": "f0ac",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "world",
         "planet",
@@ -2256,7 +2265,7 @@
       "name": "Wrench",
       "id": "wrench",
       "unicode": "f0ad",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "settings",
         "fix",
@@ -2270,7 +2279,7 @@
       "name": "Tasks",
       "id": "tasks",
       "unicode": "f0ae",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "progress",
         "loading",
@@ -2286,7 +2295,7 @@
       "name": "Filter",
       "id": "filter",
       "unicode": "f0b0",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "funnel",
         "options"
@@ -2299,7 +2308,7 @@
       "name": "Briefcase",
       "id": "briefcase",
       "unicode": "f0b1",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "work",
         "business",
@@ -2315,7 +2324,7 @@
       "name": "Arrows Alt",
       "id": "arrows-alt",
       "unicode": "f0b2",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "expand",
         "enlarge",
@@ -2334,7 +2343,7 @@
       "name": "Users",
       "id": "users",
       "unicode": "f0c0",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "people",
         "profiles",
@@ -2351,7 +2360,7 @@
       "name": "Link",
       "id": "link",
       "unicode": "f0c1",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "chain"
       ],
@@ -2369,7 +2378,7 @@
         "save"
       ],
       "unicode": "f0c2",
-      "created": 2,
+      "created": 2.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -2378,7 +2387,7 @@
       "name": "Flask",
       "id": "flask",
       "unicode": "f0c3",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "science",
         "beaker",
@@ -2393,7 +2402,7 @@
       "name": "Scissors",
       "id": "scissors",
       "unicode": "f0c4",
-      "created": 2,
+      "created": 2.0,
       "aliases": [
         "cut"
       ],
@@ -2405,7 +2414,7 @@
       "name": "Files Outlined",
       "id": "files-o",
       "unicode": "f0c5",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "duplicate"
       ],
@@ -2420,7 +2429,7 @@
       "name": "Paperclip",
       "id": "paperclip",
       "unicode": "f0c6",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "attachment"
       ],
@@ -2432,7 +2441,7 @@
       "name": "Floppy Outlined",
       "id": "floppy-o",
       "unicode": "f0c7",
-      "created": 2,
+      "created": 2.0,
       "aliases": [
         "save"
       ],
@@ -2444,7 +2453,7 @@
       "name": "Square",
       "id": "square",
       "unicode": "f0c8",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "block",
         "box"
@@ -2458,7 +2467,7 @@
       "name": "Bars",
       "id": "bars",
       "unicode": "f0c9",
-      "created": 2,
+      "created": 2.0,
       "aliases": [
         "navicon",
         "reorder"
@@ -2484,7 +2493,7 @@
       "name": "list-ul",
       "id": "list-ul",
       "unicode": "f0ca",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "ul",
         "ol",
@@ -2500,7 +2509,7 @@
       "name": "list-ol",
       "id": "list-ol",
       "unicode": "f0cb",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "ul",
         "ol",
@@ -2518,7 +2527,7 @@
       "name": "Strikethrough",
       "id": "strikethrough",
       "unicode": "f0cc",
-      "created": 2,
+      "created": 2.0,
       "categories": [
         "Text Editor Icons"
       ]
@@ -2527,7 +2536,7 @@
       "name": "Underline",
       "id": "underline",
       "unicode": "f0cd",
-      "created": 2,
+      "created": 2.0,
       "categories": [
         "Text Editor Icons"
       ]
@@ -2536,7 +2545,7 @@
       "name": "table",
       "id": "table",
       "unicode": "f0ce",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "data",
         "excel",
@@ -2550,7 +2559,7 @@
       "name": "magic",
       "id": "magic",
       "unicode": "f0d0",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "wizard",
         "automatic",
@@ -2564,7 +2573,7 @@
       "name": "truck",
       "id": "truck",
       "unicode": "f0d1",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "shipping"
       ],
@@ -2577,7 +2586,7 @@
       "name": "Pinterest",
       "id": "pinterest",
       "unicode": "f0d2",
-      "created": 2,
+      "created": 2.0,
       "categories": [
         "Brand Icons"
       ]
@@ -2586,7 +2595,7 @@
       "name": "Pinterest Square",
       "id": "pinterest-square",
       "unicode": "f0d3",
-      "created": 2,
+      "created": 2.0,
       "categories": [
         "Brand Icons"
       ]
@@ -2595,7 +2604,7 @@
       "name": "Google Plus Square",
       "id": "google-plus-square",
       "unicode": "f0d4",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "social network"
       ],
@@ -2607,7 +2616,7 @@
       "name": "Google Plus",
       "id": "google-plus",
       "unicode": "f0d5",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "social network"
       ],
@@ -2619,7 +2628,7 @@
       "name": "Money",
       "id": "money",
       "unicode": "f0d6",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "cash",
         "money",
@@ -2637,11 +2646,12 @@
       "name": "Caret Down",
       "id": "caret-down",
       "unicode": "f0d7",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "more",
         "dropdown",
-        "menu"
+        "menu",
+        "triangle down"
       ],
       "categories": [
         "Directional Icons"
@@ -2651,7 +2661,10 @@
       "name": "Caret Up",
       "id": "caret-up",
       "unicode": "f0d8",
-      "created": 2,
+      "created": 2.0,
+      "filter": [
+        "triangle up"
+      ],
       "categories": [
         "Directional Icons"
       ]
@@ -2660,10 +2673,11 @@
       "name": "Caret Left",
       "id": "caret-left",
       "unicode": "f0d9",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "previous",
-        "back"
+        "back",
+        "triangle left"
       ],
       "categories": [
         "Directional Icons"
@@ -2673,10 +2687,11 @@
       "name": "Caret Right",
       "id": "caret-right",
       "unicode": "f0da",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "next",
-        "forward"
+        "forward",
+        "triangle right"
       ],
       "categories": [
         "Directional Icons"
@@ -2686,7 +2701,7 @@
       "name": "Columns",
       "id": "columns",
       "unicode": "f0db",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "split",
         "panes"
@@ -2699,7 +2714,7 @@
       "name": "Sort",
       "id": "sort",
       "unicode": "f0dc",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "order"
       ],
@@ -2714,7 +2729,7 @@
       "name": "Sort Descending",
       "id": "sort-desc",
       "unicode": "f0dd",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "dropdown",
         "more",
@@ -2731,7 +2746,7 @@
       "name": "Sort Ascending",
       "id": "sort-asc",
       "unicode": "f0de",
-      "created": 2,
+      "created": 2.0,
       "aliases": [
         "sort-up"
       ],
@@ -2743,7 +2758,7 @@
       "name": "Envelope",
       "id": "envelope",
       "unicode": "f0e0",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "email",
         "e-mail",
@@ -2760,7 +2775,7 @@
       "name": "LinkedIn",
       "id": "linkedin",
       "unicode": "f0e1",
-      "created": 2,
+      "created": 2.0,
       "categories": [
         "Brand Icons"
       ]
@@ -2769,7 +2784,7 @@
       "name": "Undo",
       "id": "undo",
       "unicode": "f0e2",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "back"
       ],
@@ -2784,7 +2799,7 @@
       "name": "Gavel",
       "id": "gavel",
       "unicode": "f0e3",
-      "created": 2,
+      "created": 2.0,
       "label": [
         "judge",
         "lawyer",
@@ -2801,7 +2816,7 @@
       "name": "Tachometer",
       "id": "tachometer",
       "unicode": "f0e4",
-      "created": 2,
+      "created": 2.0,
       "label": [
         "speedometer",
         "fast"
@@ -2817,7 +2832,7 @@
       "name": "comment-o",
       "id": "comment-o",
       "unicode": "f0e5",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "notification",
         "note"
@@ -2830,7 +2845,7 @@
       "name": "comments-o",
       "id": "comments-o",
       "unicode": "f0e6",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "conversation",
         "notification",
@@ -2844,7 +2859,7 @@
       "name": "Lightning Bolt",
       "id": "bolt",
       "unicode": "f0e7",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "lightning",
         "weather"
@@ -2860,7 +2875,7 @@
       "name": "Sitemap",
       "id": "sitemap",
       "unicode": "f0e8",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "directory",
         "hierarchy",
@@ -2874,7 +2889,7 @@
       "name": "Umbrella",
       "id": "umbrella",
       "unicode": "f0e9",
-      "created": 2,
+      "created": 2.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -2883,7 +2898,7 @@
       "name": "Clipboard",
       "id": "clipboard",
       "unicode": "f0ea",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "copy"
       ],
@@ -2898,7 +2913,7 @@
       "name": "Lightbulb Outlined",
       "id": "lightbulb-o",
       "unicode": "f0eb",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "idea",
         "inspiration"
@@ -2911,9 +2926,10 @@
       "name": "Exchange",
       "id": "exchange",
       "unicode": "f0ec",
-      "created": 3,
+      "created": 3.0,
       "filter": [
-        "transfer"
+        "transfer",
+        "arrows"
       ],
       "categories": [
         "Web Application Icons",
@@ -2924,7 +2940,7 @@
       "name": "Cloud Download",
       "id": "cloud-download",
       "unicode": "f0ed",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "import"
       ],
@@ -2936,7 +2952,7 @@
       "name": "Cloud Upload",
       "id": "cloud-upload",
       "unicode": "f0ee",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "import"
       ],
@@ -2948,7 +2964,7 @@
       "name": "user-md",
       "id": "user-md",
       "unicode": "f0f0",
-      "created": 2,
+      "created": 2.0,
       "filter": [
         "doctor",
         "profile",
@@ -2963,7 +2979,7 @@
       "name": "Stethoscope",
       "id": "stethoscope",
       "unicode": "f0f1",
-      "created": 3,
+      "created": 3.0,
       "categories": [
         "Medical Icons"
       ]
@@ -2972,7 +2988,7 @@
       "name": "Suitcase",
       "id": "suitcase",
       "unicode": "f0f2",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "trip",
         "luggage",
@@ -2988,7 +3004,7 @@
       "name": "Bell Outlined",
       "id": "bell-o",
       "unicode": "f0a2",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "alert",
         "reminder",
@@ -3002,7 +3018,7 @@
       "name": "Coffee",
       "id": "coffee",
       "unicode": "f0f4",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "morning",
         "mug",
@@ -3019,7 +3035,7 @@
       "name": "Cutlery",
       "id": "cutlery",
       "unicode": "f0f5",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "food",
         "restaurant",
@@ -3036,7 +3052,7 @@
       "name": "File Text Outlined",
       "id": "file-text-o",
       "unicode": "f0f6",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "new",
         "page",
@@ -3052,7 +3068,7 @@
       "name": "Building Outlined",
       "id": "building-o",
       "unicode": "f0f7",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "work",
         "business",
@@ -3068,7 +3084,7 @@
       "name": "hospital Outlined",
       "id": "hospital-o",
       "unicode": "f0f8",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "building"
       ],
@@ -3080,7 +3096,7 @@
       "name": "ambulance",
       "id": "ambulance",
       "unicode": "f0f9",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "support",
         "help"
@@ -3094,7 +3110,7 @@
       "name": "medkit",
       "id": "medkit",
       "unicode": "f0fa",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "first aid",
         "firstaid",
@@ -3110,7 +3126,7 @@
       "name": "fighter-jet",
       "id": "fighter-jet",
       "unicode": "f0fb",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "fly",
         "plane",
@@ -3128,7 +3144,7 @@
       "name": "beer",
       "id": "beer",
       "unicode": "f0fc",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "alcohol",
         "stein",
@@ -3145,7 +3161,7 @@
       "name": "H Square",
       "id": "h-square",
       "unicode": "f0fd",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "hospital",
         "hotel"
@@ -3158,7 +3174,7 @@
       "name": "Plus Square",
       "id": "plus-square",
       "unicode": "f0fe",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "add",
         "new",
@@ -3175,7 +3191,7 @@
       "name": "Angle Double Left",
       "id": "angle-double-left",
       "unicode": "f100",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "laquo",
         "quote",
@@ -3190,7 +3206,7 @@
       "name": "Angle Double Right",
       "id": "angle-double-right",
       "unicode": "f101",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "raquo",
         "quote",
@@ -3205,7 +3221,7 @@
       "name": "Angle Double Up",
       "id": "angle-double-up",
       "unicode": "f102",
-      "created": 3,
+      "created": 3.0,
       "categories": [
         "Directional Icons"
       ]
@@ -3214,7 +3230,7 @@
       "name": "Angle Double Down",
       "id": "angle-double-down",
       "unicode": "f103",
-      "created": 3,
+      "created": 3.0,
       "categories": [
         "Directional Icons"
       ]
@@ -3223,7 +3239,7 @@
       "name": "angle-left",
       "id": "angle-left",
       "unicode": "f104",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "previous",
         "back"
@@ -3236,7 +3252,7 @@
       "name": "angle-right",
       "id": "angle-right",
       "unicode": "f105",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "next",
         "forward"
@@ -3249,7 +3265,7 @@
       "name": "angle-up",
       "id": "angle-up",
       "unicode": "f106",
-      "created": 3,
+      "created": 3.0,
       "categories": [
         "Directional Icons"
       ]
@@ -3258,7 +3274,7 @@
       "name": "angle-down",
       "id": "angle-down",
       "unicode": "f107",
-      "created": 3,
+      "created": 3.0,
       "categories": [
         "Directional Icons"
       ]
@@ -3267,7 +3283,7 @@
       "name": "Desktop",
       "id": "desktop",
       "unicode": "f108",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "monitor",
         "screen",
@@ -3284,7 +3300,7 @@
       "name": "Laptop",
       "id": "laptop",
       "unicode": "f109",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "demo",
         "computer",
@@ -3298,7 +3314,7 @@
       "name": "tablet",
       "id": "tablet",
       "unicode": "f10a",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "ipad",
         "device"
@@ -3311,7 +3327,7 @@
       "name": "Mobile Phone",
       "id": "mobile",
       "unicode": "f10b",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "cell phone",
         "cellphone",
@@ -3331,7 +3347,7 @@
       "name": "Circle Outlined",
       "id": "circle-o",
       "unicode": "f10c",
-      "created": 3,
+      "created": 3.0,
       "categories": [
         "Web Application Icons",
         "Form Control Icons"
@@ -3341,7 +3357,7 @@
       "name": "quote-left",
       "id": "quote-left",
       "unicode": "f10d",
-      "created": 3,
+      "created": 3.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -3350,7 +3366,7 @@
       "name": "quote-right",
       "id": "quote-right",
       "unicode": "f10e",
-      "created": 3,
+      "created": 3.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -3359,7 +3375,7 @@
       "name": "Spinner",
       "id": "spinner",
       "unicode": "f110",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "loading",
         "progress"
@@ -3373,7 +3389,7 @@
       "name": "Circle",
       "id": "circle",
       "unicode": "f111",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "dot",
         "notification"
@@ -3387,7 +3403,7 @@
       "name": "Reply",
       "id": "reply",
       "unicode": "f112",
-      "created": 3,
+      "created": 3.0,
       "aliases": [
         "mail-reply"
       ],
@@ -3399,7 +3415,7 @@
       "name": "GitHub Alt",
       "id": "github-alt",
       "unicode": "f113",
-      "created": 3,
+      "created": 3.0,
       "filter": [
         "octocat"
       ],
@@ -3411,7 +3427,7 @@
       "name": "Folder Outlined",
       "id": "folder-o",
       "unicode": "f114",
-      "created": 3,
+      "created": 3.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -3420,7 +3436,7 @@
       "name": "Folder Open Outlined",
       "id": "folder-open-o",
       "unicode": "f115",
-      "created": 3,
+      "created": 3.0,
       "categories": [
         "Web Application Icons"
       ]
@@ -3914,7 +3930,8 @@
       "filter": [
         "protect",
         "admin",
-        "password"
+        "password",
+        "lock"
       ],
       "categories": [
         "Web Application Icons"
@@ -4236,7 +4253,7 @@
       "name": "Russian Ruble (RUB)",
       "id": "rub",
       "unicode": "f158",
-      "created": 4,
+      "created": 4.0,
       "aliases": [
         "ruble",
         "rouble"
@@ -4796,7 +4813,7 @@
       "name": "Pagelines",
       "id": "pagelines",
       "unicode": "f18c",
-      "created": 4,
+      "created": 4.0,
       "filter": [
         "leaf",
         "leaves",
@@ -4813,7 +4830,7 @@
       "name": "Stack Exchange",
       "id": "stack-exchange",
       "unicode": "f18d",
-      "created": 4,
+      "created": 4.0,
       "categories": [
         "Brand Icons"
       ]
@@ -4822,7 +4839,7 @@
       "name": "Arrow Circle Outlined Right",
       "id": "arrow-circle-o-right",
       "unicode": "f18e",
-      "created": 4,
+      "created": 4.0,
       "filter": [
         "next",
         "forward"
@@ -4835,7 +4852,7 @@
       "name": "Arrow Circle Outlined Left",
       "id": "arrow-circle-o-left",
       "unicode": "f190",
-      "created": 4,
+      "created": 4.0,
       "filter": [
         "previous",
         "back"
@@ -4848,7 +4865,7 @@
       "name": "Caret Square Outlined Left",
       "id": "caret-square-o-left",
       "unicode": "f191",
-      "created": 4,
+      "created": 4.0,
       "filter": [
         "previous",
         "back"
@@ -4865,7 +4882,7 @@
       "name": "Dot Circle Outlined",
       "id": "dot-circle-o",
       "unicode": "f192",
-      "created": 4,
+      "created": 4.0,
       "filter": [
         "target",
         "bullseye",
@@ -4880,7 +4897,7 @@
       "name": "Wheelchair",
       "id": "wheelchair",
       "unicode": "f193",
-      "created": 4,
+      "created": 4.0,
       "filter": [
         "handicap",
         "person",
@@ -4897,7 +4914,7 @@
       "name": "Vimeo Square",
       "id": "vimeo-square",
       "unicode": "f194",
-      "created": 4,
+      "created": 4.0,
       "categories": [
         "Brand Icons"
       ]
@@ -4906,7 +4923,7 @@
       "name": "Turkish Lira (TRY)",
       "id": "try",
       "unicode": "f195",
-      "created": 4,
+      "created": 4.0,
       "aliases": [
         "turkish-lira"
       ],
@@ -4918,7 +4935,7 @@
       "name": "Plus Square Outlined",
       "id": "plus-square-o",
       "unicode": "f196",
-      "created": 4,
+      "created": 4.0,
       "filter": [
         "add",
         "new",
@@ -5455,9 +5472,7 @@
       "unicode": "f1cd",
       "created": 4.1,
       "aliases": [
-        {
-          "life-bouy": "Deprecated - remove in 5.0.0"
-        },
+        "life-bouy",
         "life-buoy",
         "life-saver",
         "support"
@@ -5609,6 +5624,9 @@
       "id": "header",
       "unicode": "f1dc",
       "created": 4.1,
+      "filter": [
+        "heading"
+      ],
       "categories": [
         "Text Editor Icons"
       ]
@@ -5811,6 +5829,9 @@
       "id": "cc-amex",
       "unicode": "f1f3",
       "created": 4.2,
+      "filter": [
+        "amex"
+      ],
       "categories": [
         "Brand Icons",
         "Payment Icons"
@@ -5859,6 +5880,12 @@
       "id": "trash",
       "unicode": "f1f8",
       "created": 4.2,
+      "filter": [
+        "garbage",
+        "delete",
+        "remove",
+        "hide"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -6429,6 +6456,10 @@
       "id": "user-plus",
       "unicode": "f234",
       "created": 4.3,
+      "filter": [
+        "sign up",
+        "signup"
+      ],
       "categories": [
         "Web Application Icons"
       ]
@@ -6917,6 +6948,9 @@
       "id": "safari",
       "unicode": "f267",
       "created": 4.4,
+      "filter": [
+        "browser"
+      ],
       "categories": [
         "Brand Icons"
       ]
@@ -6926,6 +6960,9 @@
       "id": "chrome",
       "unicode": "f268",
       "created": 4.4,
+      "filter": [
+        "browser"
+      ],
       "categories": [
         "Brand Icons"
       ]
@@ -6935,6 +6972,9 @@
       "id": "firefox",
       "unicode": "f269",
       "created": 4.4,
+      "filter": [
+        "browser"
+      ],
       "categories": [
         "Brand Icons"
       ]
@@ -6953,6 +6993,10 @@
       "id": "internet-explorer",
       "unicode": "f26b",
       "created": 4.4,
+      "filter": [
+        "browser",
+        "ie"
+      ],
       "categories": [
         "Brand Icons"
       ]
@@ -7131,6 +7175,197 @@
       "url": "fonticons.com",
       "categories": [
         "Brand Icons"
+      ]
+    },
+    {
+      "name": "reddit Alien",
+      "id": "reddit-alien",
+      "unicode": "f281",
+      "created": 4.5,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Edge Browser",
+      "id": "edge",
+      "unicode": "f282",
+      "created": 4.5,
+      "filter": [
+        "browser",
+        "ie"
+      ],
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Credit Card",
+      "id": "credit-card-alt",
+      "unicode": "f283",
+      "created": 4.5,
+      "filter": [
+        "credit card"
+      ],
+      "categories": [
+        "Brand Icons",
+        "Payment Icons"
+      ]
+    },
+    {
+      "name": "Codie Pie",
+      "id": "codiepie",
+      "unicode": "f284",
+      "created": 4.5,
+      "url": "codiepie.com",
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "MODX",
+      "id": "modx",
+      "unicode": "f285",
+      "created": 4.5,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Fort Awesome",
+      "id": "fort-awesome",
+      "unicode": "f286",
+      "created": 4.5,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "USB",
+      "id": "usb",
+      "unicode": "f287",
+      "created": 4.5,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Product Hunt",
+      "id": "product-hunt",
+      "unicode": "f288",
+      "created": 4.5,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Mixcloud",
+      "id": "mixcloud",
+      "unicode": "f289",
+      "created": 4.5,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Scribd",
+      "id": "scribd",
+      "unicode": "f28a",
+      "created": 4.5,
+      "categories": [
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Pause Circle",
+      "id": "pause-circle",
+      "unicode": "f28b",
+      "created": 4.5,
+      "categories": [
+        "Video Player Icons"
+      ]
+    },
+    {
+      "name": "Pause Circle Outlined",
+      "id": "pause-circle-o",
+      "unicode": "f28c",
+      "created": 4.5,
+      "categories": [
+        "Video Player Icons"
+      ]
+    },
+    {
+      "name": "Stop Circle",
+      "id": "stop-circle",
+      "unicode": "f28d",
+      "created": 4.5,
+      "categories": [
+        "Video Player Icons"
+      ]
+    },
+    {
+      "name": "Stop Circle Outlined",
+      "id": "stop-circle-o",
+      "unicode": "f28e",
+      "created": 4.5,
+      "categories": [
+        "Video Player Icons"
+      ]
+    },
+    {
+      "name": "Shopping Bag",
+      "id": "shopping-bag",
+      "unicode": "f290",
+      "created": 4.5,
+      "categories": [
+        "Web Application Icons"
+      ]
+    },
+    {
+      "name": "Shopping Basket",
+      "id": "shopping-basket",
+      "unicode": "f291",
+      "created": 4.5,
+      "categories": [
+        "Web Application Icons"
+      ]
+    },
+    {
+      "name": "Hashtag",
+      "id": "hashtag",
+      "unicode": "f292",
+      "created": 4.5,
+      "categories": [
+        "Web Application Icons"
+      ]
+    },
+    {
+      "name": "Bluetooth",
+      "id": "bluetooth",
+      "unicode": "f293",
+      "created": 4.5,
+      "categories": [
+        "Web Application Icons",
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Bluetooth",
+      "id": "bluetooth-b",
+      "unicode": "f294",
+      "created": 4.5,
+      "categories": [
+        "Web Application Icons",
+        "Brand Icons"
+      ]
+    },
+    {
+      "name": "Percent",
+      "id": "percent",
+      "unicode": "f295",
+      "created": 4.5,
+      "categories": [
+        "Web Application Icons"
       ]
     }
   ]
