@@ -1,5 +1,5 @@
 var Library = {
-  // 
+  //
   // Get Icons
   // valid types for source is 'text'
   //
@@ -43,7 +43,7 @@ var Library = {
   "escapeUnicode": function(unicode) {
     var r = /\\u([\d\w]{4})/gi;
     x = unicode.replace(r, function (match, grp) {
-        return String.fromCharCode(parseInt(grp, 16)); } 
+        return String.fromCharCode(parseInt(grp, 16)); }
     );
     return unescape(x);
   },
@@ -104,7 +104,7 @@ var Library = {
     if (typeof(parameters.rect) !== 'undefined') layer.rect = parameters.rect;
     if (typeof(parameters.color) !== 'undefined') {
       this.util.setFillColor(layer, parameters.color);
-    } 
+    }
     return layer;
   },
   // Adds a new group (MSLayerGroup) as a child of `container`
@@ -227,10 +227,10 @@ var Library = {
       // call custom function to build help button
       var helpButton = Library.components.custombutton(helpbuttonimage,NSMakeRect(520, 5, 36, 36));
       [helpButton setCOSJSTargetFunction:function(sender) {
-          var url = [NSURL URLWithString:@"https://github.com/keremciu/sketch-use-fontawesome/blob/master/HELP.md"]
+          var url = [NSURL URLWithString:@"http://fontawesome.io/icons/"]
           if( ![[NSWorkspace sharedWorkspace] openURL:url] ){
               sketchLog(@"Failed to open url:" + [url description])
-          }    
+          }
       }];
       [header addSubview:helpButton]
 
@@ -290,13 +290,13 @@ var Library = {
       },
       "set": function(text) {
         if( typeof text === 'undefined' ) return null;
- 
+
         if( !this.pasteBoard )
           this.init();
-       
+
         this.pasteBoard.declareTypes_owner( [ NSPasteboardTypeString ], null );
         this.pasteBoard.setString_forType( text, NSPasteboardTypeString );
-       
+
         return true;
       }
     },
@@ -327,7 +327,7 @@ var Library = {
       rect.origin.y = center.y-(CGRectGetHeight(rect)/2.0);
       [layer setRect:rect];
     },
-    
+
     // Sets the fill color for `layer` to `color` (MSColor)
     "setFillColor": function(layer, color) {
       var fill = [[[layer style] fills] addNewStylePart];
